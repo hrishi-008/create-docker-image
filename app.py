@@ -5,7 +5,7 @@ import os
 import PIL 
 import io
 
-GOOGLE_API_KEY= 'AIzaSyC3eI7l7Ev3pGfreJ7a2fChyTwpjhemg9A'
+GOOGLE_API_KEY= '<APIKEY>'
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
