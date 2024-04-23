@@ -1,4 +1,6 @@
-# Title: Building Docker Images with Dockerfile: A Step-by-Step Guide
+# Building Docker Images with Dockerfile: A Step-by-Step Guide
+
+SCROLL TO BOTTOM TO SEE MY FILE TREE AND CODE !
 
 In today's rapidly evolving software development landscape, Docker has emerged as a powerful tool for containerization, enabling developers to package their applications and dependencies into lightweight, portable containers. One of the key components of Docker is the Dockerfile, a text file that contains instructions for building Docker images. In this blog post, we'll walk through the process of creating a Docker image using a Dockerfile, along with necessary code snippets and commands.
 
@@ -79,7 +81,13 @@ EXPOSE 8509
 # Command to run your Streamlit app when the container starts
 CMD ["streamlit", "run", "app.py", "--server.port", "8509"]
 ```
+IMAGES:
 
 ![image](https://github.com/hrishi-008/create-docker-image/assets/97169623/903bade5-168d-4d04-a222-1da2f1637da8)
 
 ![image](https://github.com/hrishi-008/create-docker-image/assets/97169623/cd311456-3cf1-4ce6-809e-a1bd5ba37577)
+
+PUSHING TO DOCKER HUB
+
+![image](https://github.com/hrishi-008/create-docker-image/assets/97169623/29616543-4a30-4061-bba4-079df95f80c9)
+
