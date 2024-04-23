@@ -1,4 +1,6 @@
-# Title: Building Docker Images with Dockerfile: A Step-by-Step Guide
+# Building Docker Images with Dockerfile: A Step-by-Step Guide
+
+NOTE - Incase you wish to run the docker, please replace <APIKEY> with your API KEY !
 
 In today's rapidly evolving software development landscape, Docker has emerged as a powerful tool for containerization, enabling developers to package their applications and dependencies into lightweight, portable containers. One of the key components of Docker is the Dockerfile, a text file that contains instructions for building Docker images. In this blog post, we'll walk through the process of creating a Docker image using a Dockerfile, along with necessary code snippets and commands.
 
